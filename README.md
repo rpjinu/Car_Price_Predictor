@@ -102,9 +102,9 @@ To deploy the application:
 ## Images Deploment
 Include images or screenshots of the application and visualizations.
 
-<img src="https://github.com/rpjinu/Car_Price_Predictor/blob/main/Deplo2.png" alt="Deployment Screenshot" width="800">
+<img src="https://github.com/rpjinu/Car_Price_Predictor/blob/main/Deplo2.png" alt="Deployment Screenshot" width="900">
 
-<img src="https://github.com/rpjinu/Car_Price_Predictor/blob/main/Deplo2.png" alt="Deployment Screenshot" width="800">
+<img src="https://github.com/rpjinu/Car_Price_Predictor/blob/main/Deploy.png" alt="Deployment Screenshot" width="900">
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 

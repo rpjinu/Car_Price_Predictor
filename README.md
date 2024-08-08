@@ -99,12 +99,12 @@ To deploy the application:
     ```
 3. Open your browser and navigate to `http://localhost:5000`.
 
-## Images
+## Images Deploment
 Include images or screenshots of the application and visualizations.
 
-<img src="https://github.com/rpjinu/Car_Price_Predictor/blob/main/Deplo2.png" alt="Deployment Screenshot" width="600">
+<img src="https://github.com/rpjinu/Car_Price_Predictor/blob/main/Deplo2.png" alt="Deployment Screenshot" width="800">
 
-
+<img src="https://github.com/rpjinu/Car_Price_Predictor/blob/main/Deplo2.png" alt="Deployment Screenshot" width="800">
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 

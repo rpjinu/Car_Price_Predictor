@@ -102,7 +102,7 @@ To deploy the application:
 ## Images
 Include images or screenshots of the application and visualizations.
 
-<img src="https://yourimageurl.com/deployment_screenshot.png" alt="Deployment Screenshot" width="600">
+<img src="[ttps://yourimageurl.com/deployment_screenshot.png](https://github.com/rpjinu/Car_Price_Predictor/blob/main/Deplo2.png)" alt="Deployment Screenshot" width="600">
 
 
 ## Contributing
